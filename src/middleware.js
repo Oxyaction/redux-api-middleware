@@ -1,4 +1,5 @@
 import isPlainObject from 'lodash.isplainobject';
+import 'fetch-everywhere';
 
 import CALL_API from './CALL_API';
 import { isRSAA, validateRSAA } from './validation';
